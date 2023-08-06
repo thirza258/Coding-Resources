@@ -12,6 +12,7 @@
   - [Backend](#backend)
   - [Data Science/Machine Learning/AI](#data-sciencemachine-learningai)
   - [Markdown Tutorial](#markdown-tutorial)
+  - [Learn English](#learn-english)
  ## Programming Challenges
 - [HackerRank](https://www.hackerrank.com/)
 - [LeetCode](https://leetcode.com/)
@@ -146,3 +147,8 @@
 
 ## Markdown Tutorial
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
+
+
+## Learn English
+- [Discord English](https://discord.gg/english)
+- [IELTS Exam library](https://ieltsonlinetests.com/ielts-exam-library)
