@@ -69,6 +69,9 @@
 - [Alison Courses](https://alison.com/)
 - [Future Learn](https://www.futurelearn.com/)
 - [Learneroo](https://www.learneroo.com/)
+- [Jovian](https://jovian.com/learn)
+- [Dicoding](https://www.dicoding.com/)
+- [My Great Learning](https://www.mygreatlearning.com/academy)
   
 ## Open Source
 - [opensource.guide](https://github.com/github/opensource.guide)
@@ -113,6 +116,7 @@
 - [Freecodecamp Responsive Website Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - [Freecodecamp Frontend Libraries](https://www.freecodecamp.org/learn/front-end-libraries/)
 - [App Academy Open](https://open.appacademy.io/)
+- [Full Stack Open](https://fullstackopen.com/en/#course-contents)
 - [Scrimba](https://scrimba.com/)
 
 ## Data Structure and Algoritms / Interview
@@ -128,6 +132,7 @@
 ## Backend
 - [Freecodecamp APIs and Microservices](https://www.freecodecamp.org/learn/apis-and-microservices/)
 - [Freecodecamp Backend and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+- [Full Stack Open](https://fullstackopen.com/en/#course-contents)
 
 ## Data Science/Machine Learning/AI
 - [Microsoft IO Data Science](https://github.com/microsoft/Data-Science-For-Beginners)
