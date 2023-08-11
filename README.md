@@ -20,7 +20,6 @@
 - [CodeChef](https://www.codechef.com/)
 - [Project Euler](https://projecteuler.net/)
 - [CoderByte](https://coderbyte.com/)
-- [CodeSignal](https://codesignal.com/)
 - [TopCoder](https://www.topcoder.com/)
 - [CodeForces](https://codeforces.com/)
 - [Exercism](https://exercism.io/)
