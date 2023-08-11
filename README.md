@@ -36,7 +36,7 @@
 - [Rosetta Code](https://www.freecodecamp.org/learn/coding-interview-prep/#rosetta-code)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [AlgoExpert](https://www.algoexpert.io/)
-- [Algo Monster](https://www.algomonster.com/)
+- [Algo Monster](https://www.algo.monster)
 - [Coding Bat](https://codingbat.com/java)
 
 
