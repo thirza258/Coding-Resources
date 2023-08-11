@@ -26,7 +26,6 @@
 - [Exercism](https://exercism.io/)
 - [CodeAbbey](https://www.codeabbey.com/)
 - [CodinGame](https://www.codingame.com/)
-- [CodeEval](https://www.codeeval.com/)
 - [Daily Coding Problem](https://www.dailycodingproblem.com/)
 - [HackerEarth](https://www.hackerearth.com/)
 - [AtCoder](https://atcoder.jp/)
