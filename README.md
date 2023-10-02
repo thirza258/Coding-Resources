@@ -38,7 +38,7 @@
 - [AlgoExpert](https://www.algoexpert.io/)
 - [Algo Monster](https://www.algo.monster)
 - [Coding Bat](https://codingbat.com/java)
-
+- [Kattis](https://open.kattis.com/)
 
 ## Learning Resources
 - [FreeCodeCamp](https://www.freecodecamp.org/)
