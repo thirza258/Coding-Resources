@@ -13,7 +13,8 @@ A curated list of resources to level up your coding skills!
   - [🔧 Backend](#-backend)  
   - [🤖 Data Science / Machine Learning / AI](#-data-science--machine-learning--ai)  
   - [📄 Markdown Tutorial](#-markdown-tutorial)  
-  - [🗣 Learn English](#-learn-english)  
+  - [🗣 Learn English](#-learn-english) 
+  - [📚 Learn Japanese](#-learn-japanese) 
 
 ---
 
